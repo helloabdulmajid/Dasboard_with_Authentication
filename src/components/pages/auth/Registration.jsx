@@ -105,7 +105,7 @@ const Registration = () => {
               sx={{ ml: 2 }}
             />
           }
-          label="I agree to term and condition."
+          label="I agree to terms and condition."
         />
         <Box textAlign="center">
           <Button
